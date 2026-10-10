@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @divyansh2102t-dev
+/src/backend/database.py      @divyansh2102t-dev
+/src/backend/routers/auth.py  @divyansh2102t-dev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @divyansh2102t-dev
